@@ -7,4 +7,4 @@ set -e
 ##
 
 git clone --no-checkout https://github.com/AFLplusplus/LibAFL.git "$FUZZER/repo"
-git -C "$FUZZER/repo" checkout 0692a370390c5b0601d893980c8d4562c489b280
+git -C "$FUZZER/repo" checkout 929f687676ab6dadba3d62d6ea48490b874722f7
